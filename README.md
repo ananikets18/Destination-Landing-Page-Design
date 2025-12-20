@@ -27,6 +27,19 @@ This project focuses on clean UI, modern layout, and front-end animation techniq
 
 ---
 
+## 🎥 Video Tutorial
+
+This project is explained **step-by-step** in a detailed YouTube tutorial:
+
+▶️ **Watch on YouTube:**
+[https://youtu.be/_aAsPMXouBY?si=T7X8VefRIO7VCgJX](https://youtu.be/_aAsPMXouBY?si=T7X8VefRIO7VCgJX)
+
+💙 **Subscribe for more content:**
+**Annicode YouTube Channel**
+[https://www.youtube.com/@Annicode](https://www.youtube.com/@Annicode)
+
+---
+
 ## 📂 Project Structure
 
 ```
@@ -46,9 +59,9 @@ Destination-Landing-Page-Design/
 
 ## 📸 Preview
 
-You can view the live preview by opening `index.html` in your browser.
+You can view the project by opening `index.html` in your browser.
 
-> Tip: For best experience, open with **Live Server** (VS Code extension).
+> 💡 Tip: For the best experience, use **Live Server** (VS Code extension).
 
 ---
 
@@ -68,28 +81,10 @@ You can view the live preview by opening `index.html` in your browser.
 
 ---
 
-## 🎯 Use Cases
+## ⭐ Support
 
-* Frontend UI practice
-* Landing page inspiration
-* Travel or destination-themed websites
-* Portfolio project
-
----
-
-## 🔧 Possible Improvements
-
-* Add accessibility (ARIA labels)
-* Optimize images for performance
-* Add navigation and smooth scrolling
-* Convert to a React / Next.js project
-* Deploy using GitHub Pages or Netlify
-
----
-
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
+If you like this project, don’t forget to **star ⭐ the repository** and share it with others.
+Your support helps keep this project growing!
 
 ---
 
@@ -100,3 +95,4 @@ This project is open-source and available under the **MIT License**.
 * [Animate.css](https://animate.style/)
 
 ---
+
